@@ -6,7 +6,7 @@ This module using strings as ceed for generator. There are some examples:
 
 *Some random string* (with 3 colors):
 
-![alt example](http://url/to/img.png)
+![alt example](https://github.com/saveryanov/avatars/blob/master/examples/Some%20random%20string.png)
 
 *admin* (with 2 colors):
 
@@ -54,7 +54,7 @@ avatars(null, function(error, image) {
 
 First argument of avatars() is parameters object for image generation. Avatars return image object that is created by Jimp module.
 
-## Parameters
+### Parameters
 
 Parameter           | Description
 ------------------- | -------------
