@@ -12,7 +12,7 @@ This module using strings as ceed for generator. There are some examples:
 
 ![alt example](https://github.com/saveryanov/avatars/blob/master/examples/admin.png)
 
-*username* (with 2 colors):
+*username* (with 2 colors and bigger cells):
 
 ![alt example](https://github.com/saveryanov/avatars/blob/master/examples/username.png)
 
