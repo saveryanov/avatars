@@ -2,7 +2,7 @@
 
 Pixel avatar (npm-like) generator.
 
-This module using strings as ceed for generator. There are some examples:
+This module using strings as seed for generator. There are some examples:
 
 *Some random string* (with 3 colors):
 
@@ -58,7 +58,7 @@ First argument of avatars() is parameters object for image generation. Avatars r
 
 Parameter           | Description
 ------------------- | -------------
-ceed                | Some string that will be used as a ceed for randomizer (default: random string)
+seed                | Some string that will be used as a seed for randomizer (default: random string)
 width               | Width of the output image in px (default: 256)
 height              | Height of the output image in px (default: 256)
 pwidth              | Width of the generated pattern in cells (default: 16)
@@ -72,7 +72,7 @@ filename            | Filename to write the image (default: null)
 var avatars = require('avatars');
 
 var params = {
-    ceed: 'Some Random Name',   // can be username, login, id etc
+    seed: 'Some Random Name',   // can be username, login, id etc
     width: 500,
     height: 500,
     pwidth: 15,

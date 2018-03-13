@@ -109,9 +109,9 @@ module.exports = function(params = {}, callback = null) {
         var imgHeight = params.height?params.height:256;
         var patternWidth = params.pwidth?Math.round(params.pwidth/2):8;
         var patternHeight = params.pheight?params.pheight:16;
-        var ceed = params.ceed?params.ceed.toString():Math.random().toString();
+        var seed = params.seed?params.seed.toString():Math.random().toString();
         var fileName = params.filename?params.filename:null;
-        var hash = { val: crypto.createHash('md5').update(ceed).digest("hex") };
+        var hash = { val: crypto.createHash('md5').update(seed).digest("hex") };
         
         // generate colors
         var imgColors = generateColors(hash, colorsCounter);
