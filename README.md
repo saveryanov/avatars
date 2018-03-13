@@ -5,13 +5,16 @@ Pixel avatar (npm-like) generator.
 This module using strings as ceed for generator. There are some examples:
 
 *Some random string* (with 3 colors):
-![alt Some random string](http://url/to/img.png)
+
+![alt example](http://url/to/img.png)
 
 *admin* (with 2 colors):
-![alt admin](https://github.com/saveryanov/avatars/blob/master/examples/admin.png)
+
+![alt example](https://github.com/saveryanov/avatars/blob/master/examples/admin.png)
 
 *username* (with 2 colors):
-![alt Some random string](https://github.com/saveryanov/avatars/blob/master/examples/username.png)
+
+![alt example](https://github.com/saveryanov/avatars/blob/master/examples/username.png)
 
 ## Install
 
