@@ -82,7 +82,7 @@ var params = {
 
 avatars(params)
     .then(image => {
-        console.log("Created text.png");
+        console.log("Image created");
     })
     .catch(e => console.error(e));
 ```
