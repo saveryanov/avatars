@@ -6,15 +6,15 @@ This module using strings as seed for generator. There are some examples:
 
 *Some random string* (with 3 colors):
 
-![alt example](https://github.com/saveryanov/avatars/blob/master/examples/Some%20random%20string.png)
+![alt example](https://github.com/saveryanov/avatars/blob/master/examples/Some%20random%20string.png?raw=true)
 
 *admin* (with 2 colors):
 
-![alt example](https://github.com/saveryanov/avatars/blob/master/examples/admin.png)
+![alt example](https://github.com/saveryanov/avatars/blob/master/examples/admin.png?raw=true)
 
 *username* (with 2 colors and bigger cells):
 
-![alt example](https://github.com/saveryanov/avatars/blob/master/examples/username.png)
+![alt example](https://github.com/saveryanov/avatars/blob/master/examples/username.png?raw=true)
 
 ## Install
 
