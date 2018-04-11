@@ -1,5 +1,7 @@
 # avatars
 
+[![NPM version](https://img.shields.io/npm/v/avatars.svg)](https://www.npmjs.com/package/avatars)
+
 Pixel avatar (npm-like) generator.
 
 This module using strings as seed for generator. There are some examples:
